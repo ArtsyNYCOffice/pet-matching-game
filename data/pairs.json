@@ -1,12 +1,12 @@
 [
-  { "owner": "Maya Chen",      "ownerPhoto": "", "pet": "Biscuit",            "petPhoto": "", "type": "Dog" },
-  { "owner": "Jordan Ellis",   "ownerPhoto": "", "pet": "Professor Whiskers", "petPhoto": "", "type": "Cat" },
-  { "owner": "Priya Nair",     "ownerPhoto": "", "pet": "Mochi",              "petPhoto": "", "type": "Dog" },
-  { "owner": "Tomás Rivera",   "ownerPhoto": "", "pet": "Luna",               "petPhoto": "", "type": "Cat" },
-  { "owner": "Hannah Okafor",  "ownerPhoto": "", "pet": "Waffles",            "petPhoto": "", "type": "Dog" },
-  { "owner": "Sam Whitfield",  "ownerPhoto": "", "pet": "Pickles",            "petPhoto": "", "type": "Guinea Pig" },
-  { "owner": "Dana Kowalski",  "ownerPhoto": "", "pet": "Ziggy",              "petPhoto": "", "type": "Dog" },
-  { "owner": "Leo Park",       "ownerPhoto": "", "pet": "Nugget",             "petPhoto": "", "type": "Cat" },
-  { "owner": "Aisha Rahman",   "ownerPhoto": "", "pet": "Clementine",         "petPhoto": "", "type": "Rabbit" },
-  { "owner": "Ben Castellano", "ownerPhoto": "", "pet": "Maple",              "petPhoto": "", "type": "Dog" }
+  { "owner": "Tomás Rivera",   "ownerPhoto": "photos/owner-tomas-rivera.jpg",   "pet": "Rio",        "petPhoto": "photos/pet-rio.jpg",        "type": "Bird" },
+  { "owner": "Leo Park",       "ownerPhoto": "photos/owner-leo-park.jpg",       "pet": "Marmalade",  "petPhoto": "photos/pet-marmalade.jpg",  "type": "Cat" },
+  { "owner": "Ben Castellano", "ownerPhoto": "photos/owner-ben-castellano.jpg", "pet": "Hamish",     "petPhoto": "photos/pet-hamish.jpg",     "type": "Cow" },
+  { "owner": "Sam Whitfield",  "ownerPhoto": "photos/owner-sam-whitfield.jpg",  "pet": "Waffles",    "petPhoto": "photos/pet-waffles.jpg",    "type": "Dog" },
+  { "owner": "Priya Nair",     "ownerPhoto": "photos/owner-priya-nair.jpg",     "pet": "Biscuit",    "petPhoto": "photos/pet-biscuit.jpg",    "type": "Dog" },
+  { "owner": "Aisha Rahman",   "ownerPhoto": "photos/owner-aisha-rahman.jpg",   "pet": "Ziggy",      "petPhoto": "photos/pet-ziggy.jpg",      "type": "Dog" },
+  { "owner": "Hannah Okafor",  "ownerPhoto": "photos/owner-hannah-okafor.jpg",  "pet": "Pickles",    "petPhoto": "photos/pet-pickles.jpg",    "type": "Ferret" },
+  { "owner": "Jordan Ellis",   "ownerPhoto": "photos/owner-jordan-ellis.jpg",   "pet": "Sunny",      "petPhoto": "photos/pet-sunny.jpg",      "type": "Lizard" },
+  { "owner": "Maya Chen",      "ownerPhoto": "photos/owner-maya-chen.jpg",      "pet": "Clementine", "petPhoto": "photos/pet-clementine.jpg", "type": "Rabbit" },
+  { "owner": "Dana Kowalski",  "ownerPhoto": "photos/owner-dana-kowalski.jpg",  "pet": "Mochi",      "petPhoto": "photos/pet-mochi.jpg",      "type": "Tortoise" }
 ]
