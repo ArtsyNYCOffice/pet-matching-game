@@ -1,0 +1,12 @@
+[
+  { "owner": "Maya Chen",      "ownerPhoto": "", "pet": "Biscuit",            "petPhoto": "", "type": "Dog" },
+  { "owner": "Jordan Ellis",   "ownerPhoto": "", "pet": "Professor Whiskers", "petPhoto": "", "type": "Cat" },
+  { "owner": "Priya Nair",     "ownerPhoto": "", "pet": "Mochi",              "petPhoto": "", "type": "Dog" },
+  { "owner": "Tomás Rivera",   "ownerPhoto": "", "pet": "Luna",               "petPhoto": "", "type": "Cat" },
+  { "owner": "Hannah Okafor",  "ownerPhoto": "", "pet": "Waffles",            "petPhoto": "", "type": "Dog" },
+  { "owner": "Sam Whitfield",  "ownerPhoto": "", "pet": "Pickles",            "petPhoto": "", "type": "Guinea Pig" },
+  { "owner": "Dana Kowalski",  "ownerPhoto": "", "pet": "Ziggy",              "petPhoto": "", "type": "Dog" },
+  { "owner": "Leo Park",       "ownerPhoto": "", "pet": "Nugget",             "petPhoto": "", "type": "Cat" },
+  { "owner": "Aisha Rahman",   "ownerPhoto": "", "pet": "Clementine",         "petPhoto": "", "type": "Rabbit" },
+  { "owner": "Ben Castellano", "ownerPhoto": "", "pet": "Maple",              "petPhoto": "", "type": "Dog" }
+]

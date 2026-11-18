@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>People + Pets Matching Game</title>
+<meta name="description" content="Drag each pet photo into the frame beside its owner, then submit to see which matches are right.">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=DM+Mono:wght@400;500&family=Inter:wght@400..600&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="top"><div class="wrap">
+  <p class="eyebrow">Yearbook ’26 · People + Pets</p>
+  <h1>Hang each pet beside its person.</h1>
+  <p class="lede">Drag a pet from the shelf at the bottom of the screen into the frame next to its owner. Place every pet, then press Submit to see what you got right.</p>
+  <p class="hint">On a touch screen you can also tap a pet, then tap a frame.</p>
+</div></header>
+
+<main class="wrap"><ul class="wall" id="wall" aria-label="Employees"></ul></main>
+<footer class="wrap foot">Sample people and pets. Names and photos are placeholders.</footer>
+
+<div class="dock" id="dock"><div class="wrap">
+  <div class="dock-top">
+    <div class="status" id="status" aria-live="polite"></div>
+    <div class="actions" id="actions"></div>
+  </div>
+  <div class="shelf" id="shelf" role="group" aria-label="Pet shelf"></div>
+</div></div>
+
+<noscript><p class="wrap">This game needs JavaScript turned on.</p></noscript>
+<script src="game.js"></script>
+</body>
+</html>
